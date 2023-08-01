@@ -1,0 +1,33 @@
+{
+  "id": "cef00547-6ad0-467f-beea-88b0da7b897e",
+  "name": "Background Sessions",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.1",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "suppressWarnings": ["AS0015","AS0051","AS0052","AS0054","AS0084","AS0092","AA0217","AA0218"]
+}
